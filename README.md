@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Truong Ngo</h1>
+<h1 align="center">Hi 👋, I'm Anh Ngo</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 <div align="center">
@@ -30,8 +30,8 @@
 
 <h3 align="left">Other:</h3>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Github </a>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngotruonganhhhhh&show_icons=true&locale=en&layout=compact" alt="most-use" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngotruonganhhhhh&show_icons=true&locale=en" alt="stats" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngotruonganhhhhh&" alt="streak-stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngotruonganh&show_icons=true&locale=en&layout=compact" alt="most-use" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngotruonganh&show_icons=true&locale=en" alt="stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngotruonganh&" alt="streak-stats" /></p>
 
-![Snake animation](https://github.com/ngotruonganhhhhh/ngotruonganhhhhh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ngotruonganh/ngotruonganh/blob/output/github-contribution-grid-snake.svg)
